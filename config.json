@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carteerify",
+        "uuid": 1786748,
+        "checksum": "0jbjs8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
